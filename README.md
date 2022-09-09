@@ -7,10 +7,15 @@ Checkpoint #5 de Coding for security da [FIAP](https://www.fiap.com.br)
 - - - - - - - - - - - - - - - - - - -
 ## 
 Contents
+* [Warning](#Warning)
 * [Author](#Author)
 * [General information](#General)
 * [Technologies](#Technologies)
 * [Setup](#Setup)
+
+- - - - - - - - - - - - - - - - - - -
+## Warning
+**Misuse of this program is a crime! Use only in authorized environments and for academic purposes**
 
 - - - - - - - - - - - - - - - - - - -
 ## Author
@@ -42,3 +47,5 @@ This project was carried out in [Python 3.10](https://www.python.org), using the
     - Open CMD
     - Type it `pip install pyfiglet==0.7` and run it
 * 5 - Download the `DoorKnocker0.1` and run it
+* 6 - **Remember to change the root where the report will be created**
+    - Line's 74, 81, 115, 217 and 233.
