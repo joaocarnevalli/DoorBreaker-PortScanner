@@ -39,4 +39,4 @@ Este projeto foi realizado em [Python 3.10](https://www.python.org), utilizando 
 * 4 - Instale a bibliote [pyfiglet](https://pypi.org/project/pyfiglet/0.7/)
     - Abra o CMD
     - Digite `pip install pyfiglet==0.7` e execute-o
-* 5 - Descarregue o `ARRUMAR` e execute-o
+* 5 - Descarregue o `DoorKnocker0.1` e execute-o

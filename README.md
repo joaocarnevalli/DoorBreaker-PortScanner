@@ -41,4 +41,4 @@ This project was carried out in [Python 3.10](https://www.python.org), using the
 * 4 - install the library [pyfiglet](https://pypi.org/project/pyfiglet/0.7/)
     - Open CMD
     - Type it `pip install pyfiglet==0.7` and run it
-* 5 - Download the `ARRUMAR` and run it
+* 5 - Download the `DoorKnocker0.1` and run it
