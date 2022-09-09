@@ -1,4 +1,5 @@
 ## PortScanner - CP 5 - FIAP ##
+# Grupo: João Pedro Zobolli Carnevalli RM94587
 
 import socket
 import ipaddress
@@ -111,7 +112,7 @@ while True:
                         fastprint("At the end of the procedure, would you like to generate a report?")
                         askrelat = str(input(" > ")).lower()                        
                         if askrelat in positivo:
-                            with open(r"C:/Users/joaos/Documentos/TESTE/doorknockerreport.txt", "a") as fp:
+                            with open(r"C:/Users/joaos/Documentos/TESTE/doorknockerreport.txt", "w") as fp:
                                 break
                         elif askrelat in negativo:
                             break
@@ -179,7 +180,7 @@ while True:
                     try:
                         fastprint("Start port: ")
                         startport = int(input(" > "))
-                        if startport <= 0:
+                        if startport < 0:
                             fastprint("Type something!")
                         elif startport > 65536:
                             fastprint("65536 is the maximum port!")
@@ -187,7 +188,7 @@ while True:
                             passs1 = True
                         fastprint("Stop port: ")
                         stopport = int(input(" > "))
-                        if stopport <= 0:
+                        if stopport < 0:
                             fastprint("Type Something")
                         elif startport > 65536:
                             fastprint("65536 is the maximum port!")
@@ -210,7 +211,7 @@ while True:
     if specify == True:
         count = 0
         start_time = time.time()
-        port_scan(target, range(startport, stopport))
+        port_scan(target, range(startport, stopport + 1))
         t = time.localtime()
         currenttime = time.strftime("%H:%M:%S", t)
         with open(r"C:/Users/joaos/Documentos/TESTE/doorknockerreport.txt", "a") as fp:
