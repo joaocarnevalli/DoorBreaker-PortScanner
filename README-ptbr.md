@@ -1,6 +1,6 @@
 <p align="right"><a href="https://github.com/joaocarnevalli/DoorKnocker-PortScanner/blob/main/README.md">English</a> | <strong>Português</strong> </p>
 
-# DoorKnocker - PortScanner
+# DoorBreaker - PortScanner
 Checkpoint #5 de Coding for security da [FIAP](https://www.fiap.com.br)
 > - Objetivo: Desenvolver  um portscannerem  Python que possibilite  escanear  um ou  mais  servidores  em  busca  de  portas  TCP/UDP que  estejam  abertas.  O programa deve apresentar  o  resultadoda  pesquisa  na tela  e  gerar  um report em arquivo txt, além de possibilitar a definição do range de portas e identificar o tipo  de  protocolo  correspondente  ao  serviço  com  base no  arquivo  services  do IANA.
 
