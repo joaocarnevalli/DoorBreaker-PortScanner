@@ -38,5 +38,3 @@ Este projeto foi realizado em [Python 3.10](https://www.python.org), utilizando 
     - Abra o CMD
     - Digite `pip install pyfiglet==0.7` e execute-o
 * 5 - Descarregue o `ARRUMAR` e execute-o
-
-- - - - - - - - - - - - - - - - - - -
