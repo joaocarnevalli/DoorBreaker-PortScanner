@@ -5,7 +5,7 @@ Checkpoint #5 de Coding for security da [FIAP](https://www.fiap.com.br)
 - - - - - - - - - - - - - - - - - - -
 ## Conteúdo
 * [Autor](#Autor)
-* [Informações Gerais](#geral)
+* [Informações Gerais](#Geral)
 * [Tecnologias](#tecnologias)
 * [Configuração](#setup)
 
@@ -16,4 +16,11 @@ Checkpoint #5 de Coding for security da [FIAP](https://www.fiap.com.br)
     - [Linkedin](https://www.linkedin.com/in/joaopedrozobollicarnevalli/)
     - [Twitch](https://www.twitch.tv/1joaolight)
     - **E-mail** -  **joaocarnevalli.sec@gmail.com**
-Projeto de autoria propria!
+
+- - - - - - - - - - - - - - - - - - -
+## Geral
+Este programa visa fazer um scan em determinado alvo, trazendo as portas abertas e seus respectivos serviços!
+
+- - - - - - - - - - - - - - - - - - -
+## Tecnologias
+Este projeto foi realizado em [Python 3.10](https://www.python.org), utilizando as bibliotecas [socket](https://docs.python.org/3/library/socket.html), [ipaddress](https://docs.python.org/3/library/ipaddress.html), [sys](https://docs.python.org/3/library/sys.html), [pyfiglet](https://pypi.org/project/pyfiglet/0.7/), [time](https://docs.python.org/3/library/time.html), [current.futures](https://docs.python.org/3/library/concurrent.futures.html#concurrent.futures.ProcessPoolExecutor) e [datetime](https://docs.python.org/3/library/datetime.html)
