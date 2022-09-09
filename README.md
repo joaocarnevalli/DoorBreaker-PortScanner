@@ -15,5 +15,6 @@ Checkpoint #5 de Coding for security da [FIAP](https://www.fiap.com.br)
     - [GitHub](https://github.com/joaocarnevalli) - [@joaocarnevalli](https://github.com/joaocarnevalli)
     - [Linkedin](https://www.linkedin.com/in/joaopedrozobollicarnevalli/)
     - [Twitch](https://www.twitch.tv/1joaolight)
-    - [E-mail](joaocarnevalli.sec@gmail.com)
+    - **E-mail** -  **joaocarnevalli.sec@gmail.com**
+
 Projeto de autoria propria!
