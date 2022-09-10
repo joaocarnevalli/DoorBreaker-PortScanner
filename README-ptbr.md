@@ -46,4 +46,4 @@ Este projeto foi realizado em [Python 3.10](https://www.python.org), utilizando 
     - Digite `pip install pyfiglet==0.7` e execute-o
 * 5 - Descarregue o `DoorKnocker0.1` e execute-o
 * 6 - **Lembre-se de mudar a raiz de onde o relatorio sera criado**
-    - Linhas 74, 81, 115, 217 and 233.
+    - Linhas 74, 81, 115, 217 e 233.
